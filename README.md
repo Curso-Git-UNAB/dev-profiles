@@ -1,1 +1,1 @@
-# devs-profiles
+# dev-profiles
