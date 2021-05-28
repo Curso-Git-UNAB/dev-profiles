@@ -25,6 +25,7 @@ nav {
 }
 .card-panel{
   padding: 0px;
+  height: 620px;
 }
 .hoverable{
   cursor: pointer;
